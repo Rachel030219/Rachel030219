@@ -12,5 +12,5 @@ My overall life as a developer binds with GitHub. For more personal information,
   - Networking principles… with laziness
 - 📫 Reach me: 
   - [Send a email](mailto:291054446@qq.com)
-  - See [MY PERSONAL HOMEPAGE](https://me.stfw.info)
-- ✨ See what I've done previously:
+  - [MY PERSONAL HOMEPAGE](https://me.stfw.info)
+- ✨ What I've done previously:

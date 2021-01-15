@@ -1,16 +1,16 @@
-### Hi there 👋
+### Yo! 🤗
 
-<!--
-**Rachel030219/Rachel030219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rachel, a single pigeon currently acting as a student studying in a university located in Hunan, wishing to find my significant other.
 
-Here are some ideas to get you started:
+My overall life as a developer binds with GitHub. For more personal information, go to [MY PERSONAL HOMEPAGE](https://me.stfw.info) !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 Working on:
+  - Android apps… for personal use
+  - Writing [blogs](https://blog.stfw.info) … continuously
+- ⚔ Currently learning:
+  - Front-end… you say
+  - Networking principles… with laziness
+- 📫 Reach me: 
+  - [Send a email](mailto:291054446@qq.com)
+  - See [MY PERSONAL HOMEPAGE](https://me.stfw.info)
+- ✨ See what I've done previously:

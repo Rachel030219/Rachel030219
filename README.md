@@ -2,15 +2,15 @@
 
 I'm Rachel, a pigeon currently acting as a student studying in a university located in Hunan.
 
-My overall life as a developer binds with GitHub. For more personal information, go to [MY PERSONAL HOMEPAGE](https://me.stfw.info) !!
+My overall life as a developer binds with GitHub. For more personal information, go to [MY PERSONAL HOMEPAGE](https://rachelt.one) !!
 
 - 🔨 Working on:
   - Android apps… for personal use
-  - Writing [blogs](https://blog.stfw.info) … continuously
+  - Writing [blogs](https://blog.rachelt.one) … continuously
 - ⚔ Currently learning:
   - Front-end… you say
   - Networking principles… with laziness
 - 📫 Reach me: 
   - [Send a email](mailto:291054446@qq.com)
-  - [MY PERSONAL HOMEPAGE](https://me.stfw.info)
+  - [MY PERSONAL HOMEPAGE](https://rachelt.one)
 - ✨ What I've done previously:

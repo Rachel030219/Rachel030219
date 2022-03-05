@@ -1,6 +1,6 @@
 ### Yo! 🤗
 
-I'm Rachel, a single pigeon currently acting as a student studying in a university located in Hunan, wishing to find my significant other.
+I'm Rachel, a pigeon currently acting as a student studying in a university located in Hunan.
 
 My overall life as a developer binds with GitHub. For more personal information, go to [MY PERSONAL HOMEPAGE](https://me.stfw.info) !!
 

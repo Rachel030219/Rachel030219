@@ -1,6 +1,6 @@
 ### Yo! 🤗
 
-I'm Rachel, a pigeon currently acting as a student studying in a university located in Hunan.
+I'm Rachel, a pigeon currently acting as a R&D engineer working in Beijing.
 
 My overall life as a developer binds with GitHub. For more personal information, go to [MY PERSONAL HOMEPAGE](https://rachelt.one) !!
 
